@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a computer science student in Japan.
 - 🌱 I’m currently learning React, TypeScript, Web Development.
-- 📫 How to reach me: [X - @yomotsunomikoto](https://twitter.com/yomotsunomikoto), [✉️ - apamanoko221@yahoo.co.jp](apamanoko221@yahoo.co.jp)
+- 📫 How to reach me: [X - @yomotsunomikoto](https://twitter.com/yomotsunomikoto), [📩 - apamanoko221@yahoo.co.jp](apamanoko221@yahoo.co.jp)
 <br>
 
 
